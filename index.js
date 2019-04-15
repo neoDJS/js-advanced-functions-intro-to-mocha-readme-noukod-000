@@ -1,5 +1,5 @@
 function theTruth(){
-  return true
+  return true;
 }
 
 function sayHey(){}
