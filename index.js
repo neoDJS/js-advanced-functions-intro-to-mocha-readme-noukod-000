@@ -18,4 +18,6 @@ function shouting(theStars){
   return theStars.toUpperCase();
 }
 
-function roundDown(){}
+function roundDown(num){
+  return Math.floor(num);
+}
