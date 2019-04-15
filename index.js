@@ -1,4 +1,6 @@
-function theTruth(){}
+function theTruth(){
+  return true
+}
 
 function sayHey(){}
 
