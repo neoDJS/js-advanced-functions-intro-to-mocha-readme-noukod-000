@@ -2,7 +2,9 @@ function theTruth(){
   return true;
 }
 
-function sayHey(){}
+function sayHey(){
+  return 'Hey!';
+}
 
 function sayHeyFriend(name){}
 
